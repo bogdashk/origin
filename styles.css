@@ -1,0 +1,34 @@
+h1 {
+    background: purple;
+}
+.p1 {
+    background: blue;
+    font-size: 32pt;
+    color: green;
+
+}
+.p2 {
+    border: 10px solid yellow;
+    border-radius: 20px;
+    font-size: 24pt;
+    margin-bottom: 60px;
+    padding-left: 20px;
+
+}
+.p3 {
+    font-weight: 900;
+    font-size: 20pt;
+    font-family: Courier New;
+}
+.p4{
+    font-size: 24pt;
+    padding-left: 20px;
+}
+
+.span1{
+    font-weight: 900;
+    font-size: 20pt;
+    font-family: Courier New;
+
+    color: purple;
+}
