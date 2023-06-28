@@ -23,6 +23,7 @@ h1 {
 .p4{
     font-size: 24pt;
     padding-left: 20px;
+    text-shadow: 5px 5px 2px green;
 }
 
 .span1{
